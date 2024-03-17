@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c47bd54c-b9c1-4f5c-9025-87b3bc2ff684}">
+		<property name="assetPath">
+			<value>ambience/coastline/calm_coast.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>96.671999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{45fc46ad-e8bc-445f-bc37-cf6a60b975ce}</destination>
+		</relationship>
+	</object>
+</objects>

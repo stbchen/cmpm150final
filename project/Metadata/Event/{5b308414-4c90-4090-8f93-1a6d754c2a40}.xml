@@ -126,7 +126,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{f97b549e-2acc-4781-8404-53a598fcce4f}">
 		<property name="name">
-			<value>Dry</value>
+			<value>Calm</value>
 		</property>
 		<relationship name="automators">
 			<destination>{2ee34a85-f531-46d2-8a81-f329f17787e5}</destination>
@@ -156,7 +156,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{09c30464-98b6-4552-94d3-e6523396f334}">
 		<property name="name">
-			<value>Wet</value>
+			<value>Stormy</value>
 		</property>
 		<relationship name="automators">
 			<destination>{299dd94b-5cb9-49ff-83f2-77c13cbc7fa4}</destination>
@@ -225,6 +225,7 @@
 		<relationship name="automationPoints">
 			<destination>{6500dbb0-d310-465c-a876-cc69c1b74fb6}</destination>
 			<destination>{4dc093d4-9662-4008-a938-9d3907be6e95}</destination>
+			<destination>{54d02b93-e6eb-47aa-ba86-3273e7df049d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{253c65d7-f5d6-40d9-b99f-c8bc96ca651e}" />
@@ -246,7 +247,7 @@
 			<value>-2</value>
 		</property>
 		<property name="curveShape">
-			<value>0.527849972</value>
+			<value>-0.739589095</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{4dc093d4-9662-4008-a938-9d3907be6e95}">
@@ -255,6 +256,14 @@
 		</property>
 		<property name="value">
 			<value>-80</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{54d02b93-e6eb-47aa-ba86-3273e7df049d}">
+		<property name="position">
+			<value>0.30295565914257383</value>
+		</property>
+		<property name="value">
+			<value>-16</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{77c364f6-e3b1-4fdb-afba-996d4794e211}">

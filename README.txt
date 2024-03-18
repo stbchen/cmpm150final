@@ -3,7 +3,7 @@ Requirements:
 
 ✖️ 1 engine/machine sound (parameter corresponding to speed(pitch)), also need to have start and stop sound transitions
 
-✖️✖️✖️ 3 ambient sounds (parameter that impacts sound (i.e. time of day)
+✔️✖️✖️ 3 ambient sounds (parameter that impacts sound (i.e. time of day)
 
 GUI sounds
 ✔️ 1 changing selection in menu
@@ -29,12 +29,12 @@ Engine sounds:
 
 Ambient sounds:
 
-Calm/stormy coast --------------------
+Calm/stormy coast✔️ --------------------
 
-Coast storm:
+Coast storm:✔️
 "Storm wind in trees and surf.wav", juskiddink, https://freesound.org/people/juskiddink/sounds/81186/
 
-Coast morning:
+Coast morning:✔️
 "River ScheldeNL 730AM 210303_0264.wav", klankbeeld, https://freesound.org/people/klankbeeld/sounds/563269/
 
 Quiet/Busy city --------------------

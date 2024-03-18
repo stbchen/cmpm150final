@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a3ee16d2-81c9-42bc-8fbc-b8d7d196219c}">
+		<property name="assetPath">
+			<value>ambience/city/busy_city.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>25.584</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{45fc46ad-e8bc-445f-bc37-cf6a60b975ce}</destination>
+		</relationship>
+	</object>
+</objects>

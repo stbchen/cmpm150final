@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{77cf4721-102e-4a0c-b84f-66691670cee4}">
+	<object class="AudioFile" id="{1c27a65c-addb-40b4-94cf-5fc3c11b7ae6}">
 		<property name="assetPath">
-			<value>TRAFFIC_DRY.wav</value>
+			<value>ambience/city/calm_city.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>7</value>
+			<value>23.196734693877552</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{45fc46ad-e8bc-445f-bc37-cf6a60b975ce}</destination>

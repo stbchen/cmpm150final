@@ -3,7 +3,7 @@ Requirements:
 
 ✖️ 1 engine/machine sound (parameter corresponding to speed(pitch)), also need to have start and stop sound transitions
 
-✔️✖️✖️ 3 ambient sounds (parameter that impacts sound (i.e. time of day)
+✔️✔️✔️ 3 ambient sounds (parameter that impacts sound (i.e. time of day)
 
 GUI sounds
 ✔️ 1 changing selection in menu
@@ -37,19 +37,19 @@ Coast storm:✔️
 Coast morning:✔️
 "River ScheldeNL 730AM 210303_0264.wav", klankbeeld, https://freesound.org/people/klankbeeld/sounds/563269/
 
-Quiet/Busy city --------------------
+Quiet/Busy city ✔️--------------------
 
-Quiet city:
+Quiet city:✔️
 "calm city ambience 02 200316_0124.wav", klankbeeld, https://freesound.org/people/klankbeeld/sounds/593833/
 
-Busy city:
+Busy city:✔️
 "Busy city sound", Balaram_Mahalder, https://freesound.org/people/Balaram_Mahalder/sounds/715388/
 
-Normal/On Fire Forest --------------------
-Normal forest:
+Normal/On Fire Forest✔️ --------------------
+Normal forest:✔️
 "evening in the forest.wav", reinsamba, https://freesound.org/people/reinsamba/sounds/18765/
 
-Fire forest:
+Fire forest:✔️
 "Fire_Forest_Inferno.aif", Dynamicell, https://freesound.org/people/Dynamicell/sounds/17548/
 
 --------------------

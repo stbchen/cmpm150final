@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fcdc0366-efbc-414a-bcab-7dfe3d3ec11e}">
+		<property name="assetPath">
+			<value>engine/engine_off.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.5787755102040815</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{45fc46ad-e8bc-445f-bc37-cf6a60b975ce}</destination>
+		</relationship>
+	</object>
+</objects>
